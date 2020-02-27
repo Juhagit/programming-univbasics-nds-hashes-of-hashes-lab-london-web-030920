@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- PORTION_1 = [:label][:label][:label][:label]
+ PORTION_1 = [
  
   # Remember:
   #  Kingdom
