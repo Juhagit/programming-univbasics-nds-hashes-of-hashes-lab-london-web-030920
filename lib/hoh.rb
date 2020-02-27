@@ -4,16 +4,16 @@
 #
 # The tests will guide your construction.
 #
- PORTION_1 = {
-   label: "Kingdom",
-   sub_category: {
-     label: "Phylum",
-     sub_category: {
-       label: "Class"
-     }
-   }
- }
- 
+# PORTION_1 = {
+#   label: "Kingdom",
+#   sub_category: {
+#     label: "Phylum",
+#     sub_category: {
+#       label: "Class"
+#     }
+#   }
+# }
+# 
 # PORTION_2 = {
 #   label: "Order"
 # }
@@ -31,7 +31,9 @@
 # }
 
 def naming_system
- PORTION_1[:sub_category][:sub_category][:sub_category] 
+ 
+ 
+ 
  
   # Remember:
   #  Kingdom
